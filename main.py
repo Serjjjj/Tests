@@ -30,6 +30,6 @@ if __name__ == "__main__":
             time.sleep(zz)
             notification.notify(
                 title="Back to work!",
-                message="Try doing another pomodoro...",
+                message="Try doing another pomodoro...", #Это прошло все!!
             )
 
