@@ -4,18 +4,6 @@ from plyer import notification
 count = 0
 notification.notify(
     message="Pomodoro timer запущен, начинайте работу!")
-
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     while True:
         time.sleep(20)
